@@ -1,0 +1,18 @@
+WorkingDay: 21.01.2021, 5 working hours, "Lab practice"
+Employee: Kyrylov Kyrylo Kyrylovich - Engineer
+-------------------------------------------------------
+WorkingDay: 12.02.2021, 3 working hours, "Studying"
+Employee: Havlitskii Dmytro Ivanovich - Teacher
+-------------------------------------------------------
+WorkingDay: 22.07.2020, 24 working hours, "Садівництво"
+Employee: Kompaniets Eugen Eugenovich - Gardener
+-------------------------------------------------------
+WorkingDay: 22.07.2020, 24 working hours, "Риболовля"
+Employee: Sergienko Serhii Serhiyovich - Рибалка
+-------------------------------------------------------
+WorkingDay: 07.06.2021, 2 working hours, "Прибирання гуртожитку"
+Employee: Петров Петро Петрович - Черговий
+-------------------------------------------------------
+WorkingDay: 20.05.2021, 5 working hours, "Перегляд кінофільму"
+Employee: Іванов Іван Іванович - Кіноман
+-------------------------------------------------------
